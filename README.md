@@ -1,6 +1,6 @@
 # cis209 Homework chapter 05
 
-Implement the following integer methods:
+Implement the following double methods:
 
 1. Method celsius returns the Celsius equivalent of a Fahrenheit temperature as a double value, using the calculation
 
